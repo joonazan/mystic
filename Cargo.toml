@@ -1,0 +1,6 @@
+[package]
+name = "mystic"
+version = "0.1.0"
+authors = ["Joonatan Saarhelo <joon.saar@gmail.com>"]
+
+[dependencies]
